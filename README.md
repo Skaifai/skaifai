@@ -30,3 +30,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skaifai&show_icons=true&locale=en&theme=radical" alt="skaifai" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaifai&show_icons=true&locale=en&theme=radical&layout=donut" alt="skaifai" /></p>
+
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/Skaifai?theme=dark&font=Roboto&ext=heatmap" alt="leetcode" /></p>
